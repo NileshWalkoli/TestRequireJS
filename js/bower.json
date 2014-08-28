@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "authors": [
+    "Nilesh W <nilesh.walkoli@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.0-rc.1",
+    "jquery": "~2.0.3"
+  }
+  }

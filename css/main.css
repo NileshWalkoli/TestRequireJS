@@ -1,0 +1,19 @@
+html, body {
+	padding: 0px;
+	margin: 0 auto;
+	width: 1024px;
+	height: 768px;
+	font-family: Helvetica;
+}
+#container {
+	width: 1024px;
+	height: 768px;
+	outline: 1px solid lightgray;
+	/*background-color: 'whiteSmoke';*/
+}
+header {
+	background-color:#5D7FBC;
+	width: 1024px;
+	height: 149px;
+}
+
